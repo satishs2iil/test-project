@@ -1,0 +1,1 @@
+target1 ansible_host=54.210.115.183 ansible_user=root ansible_ssh_pass=password ansible_become=true

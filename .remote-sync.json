@@ -1,0 +1,19 @@
+{
+  "logger": {
+    "title": "Remote Sync"
+  },
+  "transport": "scp",
+  "uploadOnSave": true,
+  "useAtomicWrites": false,
+  "deleteLocal": false,
+  "hostname": "54.144.211.155",
+  "port": "22",
+  "target": "/home/ubuntu/test-project",
+  "ignore": [
+    ".remote-sync.json",
+    ".git/**"
+  ],
+  "username": "ubuntu",
+  "watch": [],
+  "keyfile": "C:\\Users\\91942\\Downloads\\ubuntu.pem"
+}
